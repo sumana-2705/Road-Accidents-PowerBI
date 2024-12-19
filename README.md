@@ -1,6 +1,6 @@
 # Road Accidents Dashboard
 
-![image](image_url_or_path "Optional Title")
+<img align ="center" alt="image"  width="100%" src="Dashboard.png">
 
 ### Description
 
